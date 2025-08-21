@@ -24,7 +24,15 @@ A API possui as seguintes funcionalidades:
 
 ## Endpoints
 
-### Criar Tópico
-
+### Criar Tópicos
+### Atualizar Tópicos
+### Deletar Tópicos
+### Listar Tópicos
 ```http
 POST /topicos
+```http
+PUT /topicos
+```http
+DELETE /topicos
+```http
+GET /topicos
